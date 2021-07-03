@@ -8,6 +8,6 @@ public class SpringBootCountryServiceProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootCountryServiceProjectApplication.class, args);
-    }
 
+    }
 }
